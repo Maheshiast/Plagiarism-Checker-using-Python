@@ -1,0 +1,3 @@
+ Plagiarism Checker is a software tool that detects similarities between documents to identify copied or paraphrased content. This Python-based project utilizes Natural Language Processing (NLP) and text similarity algorithms to compare multiple text files and generate a similarity report.
+
+The project reads documents, preprocesses text (removing stop words, punctuation, etc.), converts it into a numerical format using TF-IDF (Term Frequency-Inverse Document Frequency), and calculates similarity scores using Cosine Similarity. The results display percentage-based similarity between documents, helping in plagiarism detection.
